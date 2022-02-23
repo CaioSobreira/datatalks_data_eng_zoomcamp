@@ -4,7 +4,7 @@
 
 #
 
-###Link to dbt Cloud repo: https://github.com/CaioSobreira/de_zoomcamp_dbt_bigquery
+### Link to dbt Cloud repo: https://github.com/CaioSobreira/de_zoomcamp_dbt_bigquery
 
 #### Question 1:
 
